@@ -12,6 +12,7 @@ Project consists of configuring an Azure lab environment with Sentinel using a c
 - <b>Sentinel</b>
 - <b>Defender</b>
 - <b>Powershell</b>
+- <b>KQL Query</b>
 - <b>Geolocation API</b>
 
 <h2>Environments Used </h2>
